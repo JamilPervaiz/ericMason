@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ericMason"
+    }
+  },
+  "defaultProject": "ericMason",
+  "cli": {
+    "analytics": false
+  }
 }
